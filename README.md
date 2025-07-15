@@ -2,7 +2,7 @@
 
 ## Objective
 
-An executable in Go that counts .dcm exam and .pdf report files from PACS backups.
+An executable in Go that counts `.dcm` exams and `.pdf` report files from PACS backups.
 
 ## Project structure
 
