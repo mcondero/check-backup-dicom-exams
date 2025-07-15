@@ -1,0 +1,4 @@
+csv_path: /home/user/Documents/institution/studies.csv
+base_dir: /home/user/Documents/test/
+output_csv: report.csv
+summary_txt: summary.txt
